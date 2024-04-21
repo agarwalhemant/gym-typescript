@@ -36,9 +36,7 @@ function App() {
       <Benefits setSelectedPage={setSelectedPage} />
       <OurClasses setSelectedPage={setSelectedPage} />
       <ContactUs setSelectedPage={setSelectedPage} />
-      <Footer setSelectedPage={function (value: SelectedPage): void {
-        throw new Error("Function not implemented.");
-      } } />
+      <Footer />
     </div>
   );
 }
