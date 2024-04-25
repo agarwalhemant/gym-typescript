@@ -1,7 +1,7 @@
-#Deployment Link
+# Deployment Link
 [Gym Typescript](https://gym-typescript-three.vercel.app/)
 
-##Run the following commands in the terminal to start the website on your local host:##
+## Run the following commands in the terminal to start the website on your local host:
 
 ```
 npm install
